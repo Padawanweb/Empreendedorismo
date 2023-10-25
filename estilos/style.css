@@ -20,7 +20,6 @@ h1{
 }
 
 h2{
-<<<<<<< HEAD
     color: #34344e;
 }
 
@@ -42,11 +41,11 @@ footer{
     align-items: center;
     border: 4px solid black;
     list-style: none;
-=======
+
     color: green;
 }
 
 img{
     width: 500px;
->>>>>>> 51dd8cfebdee663ed36f8bbd413cdc43c6e234cb
+
 }
